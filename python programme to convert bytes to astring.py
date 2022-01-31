@@ -1,0 +1,1 @@
+print(b'easy \ xe2\x9c\x85'.decode("utf-8"))
